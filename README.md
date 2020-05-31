@@ -4,7 +4,7 @@ Archetype for NODE Typescript and PosgreSQL with an user CRUD example API
 
 ## Installation
 
-Run
+run
 ```bash
 npm -i
 ```
@@ -26,7 +26,7 @@ DB_MAX_CLIENTS=
 DB_IDLE_TIMEOUT_MS=
 ```
 
-Run
+run
 ```bash
 npm run start
 ```

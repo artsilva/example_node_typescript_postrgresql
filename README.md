@@ -1,6 +1,6 @@
 # example_node_typescript_postrgresql
 
-Archetype for NODE Typescript and PosgreSQL
+Archetype for NODE Typescript and PosgreSQL with an user CRUD example API
 
 ## Installation
 
